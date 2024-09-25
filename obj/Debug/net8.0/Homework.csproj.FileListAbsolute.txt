@@ -12,3 +12,4 @@ C:\Users\oliko\source\repos\tt\Homework\Homework\obj\Debug\net8.0\refint\Homewor
 C:\Users\oliko\source\repos\tt\Homework\Homework\obj\Debug\net8.0\Homework.pdb
 C:\Users\oliko\source\repos\tt\Homework\Homework\obj\Debug\net8.0\Homework.genruntimeconfig.cache
 C:\Users\oliko\source\repos\tt\Homework\Homework\obj\Debug\net8.0\ref\Homework.dll
+C:\Users\oliko\source\repos\tt\Homework\Homework\obj\Debug\net8.0\Homework.sourcelink.json
