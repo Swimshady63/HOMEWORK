@@ -1,0 +1,14 @@
+C:\Users\oliko\source\repos\tt\Homework\Homework\bin\Debug\net8.0\Homework.exe
+C:\Users\oliko\source\repos\tt\Homework\Homework\bin\Debug\net8.0\Homework.deps.json
+C:\Users\oliko\source\repos\tt\Homework\Homework\bin\Debug\net8.0\Homework.runtimeconfig.json
+C:\Users\oliko\source\repos\tt\Homework\Homework\bin\Debug\net8.0\Homework.dll
+C:\Users\oliko\source\repos\tt\Homework\Homework\bin\Debug\net8.0\Homework.pdb
+C:\Users\oliko\source\repos\tt\Homework\Homework\obj\Debug\net8.0\Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oliko\source\repos\tt\Homework\Homework\obj\Debug\net8.0\Homework.AssemblyInfoInputs.cache
+C:\Users\oliko\source\repos\tt\Homework\Homework\obj\Debug\net8.0\Homework.AssemblyInfo.cs
+C:\Users\oliko\source\repos\tt\Homework\Homework\obj\Debug\net8.0\Homework.csproj.CoreCompileInputs.cache
+C:\Users\oliko\source\repos\tt\Homework\Homework\obj\Debug\net8.0\Homework.dll
+C:\Users\oliko\source\repos\tt\Homework\Homework\obj\Debug\net8.0\refint\Homework.dll
+C:\Users\oliko\source\repos\tt\Homework\Homework\obj\Debug\net8.0\Homework.pdb
+C:\Users\oliko\source\repos\tt\Homework\Homework\obj\Debug\net8.0\Homework.genruntimeconfig.cache
+C:\Users\oliko\source\repos\tt\Homework\Homework\obj\Debug\net8.0\ref\Homework.dll
